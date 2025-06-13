@@ -80,7 +80,7 @@
             joinBtn.classList.add('btn-success');
             
             setTimeout(() => {
-                joinBtn.textContent = 'Únete Ahora';
+                joinBtn.textContent = 'Úbete Ahora';
                 joinBtn.classList.remove('btn-success');
                 joinBtn.classList.add('btn-light');
             }, 3000);
